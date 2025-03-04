@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Movie from './Movie'
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-     
+     <Movie/>
     </>
   )
 }
