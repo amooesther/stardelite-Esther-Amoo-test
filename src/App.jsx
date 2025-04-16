@@ -1,15 +1,13 @@
-import { useState } from 'react'
-import Movie from './Movie'
-
+// src/App.jsx
+import React from "react";
+import Editor from "./Editor";
 
 function App() {
- 
-
   return (
-    <>
-     <Movie/>
-    </>
-  )
+    <div className="App">
+      <Editor />
+    </div>
+  );
 }
 
-export default App
+export default App;

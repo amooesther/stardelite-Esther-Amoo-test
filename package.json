@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@grapesjs/studio-sdk": "^1.0.39",
     "@tailwindcss/vite": "^4.0.9",
+    "grapesjs": "^0.22.6",
+    "grapesjs-mjml": "^1.0.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwindcss": "^4.0.9"
